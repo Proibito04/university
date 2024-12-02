@@ -1,3 +1,4 @@
 [submodule "caos"]
 	path = caos
 	url = https://github.com/Proibito04/caos
+	branch = main
